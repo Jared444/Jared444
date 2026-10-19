@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a research project comparing ML models for brain tumor classification from MRI scans (glioma, meningioma, pituitary, no tumor)<br>🤝 I’m looking for help with mastering PyTorch<br>🌱 I’m currently relearning JavaScript<br>💬 Ask me about AI and ML models<br>⚡ Fun fact: I got into data science through the stock market
+🔭 I’m currently working on a research project comparing ML models for brain tumor classification from MRI scans (glioma, meningioma, pituitary, no tumor), Researching new potential projects to work on <br>🤝 I’m looking for help with mastering PyTorch<br>🌱 I’m currently relearning JavaScript<br>💬 Ask me about AI and ML models<br>⚡ Fun fact: I got into data science through the stock market
 
 
 ## 🌐 Socials:
